@@ -1,4 +1,3 @@
-#ReadMe
 Plateforme d'intelligence commerciale et d'aide à la décision pour l'implantation d'entreprises dans les arrondissements parisiens. L'application extrait les données du registre des entreprises, applique un modèle d'évaluation de rentabilité sectorielle et projette les établissements sur une vue satellite 3D interactive.
 
 Apercu
